@@ -3,31 +3,37 @@ body {font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen
         width: 1440px;
         margin: auto;
         font-size: 30px ;}
-section {text-align: center; place-items: center; }
+
 h1 { font-weight: 700; font-size: 400;}
+
 article {  margin-left:auto; }
-nav { text-align: right;}
 
 
 .attribution { font-size: 11px; text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; }
+
 .attribution a { color: hsl(228, 45%, 44%); }
+
+
+.logo { width: 90%; margin: left}
+
+.nav { display: grid; grid-template-columns: 40% 20% 20% 20%;}
+
+.cuerpo { display:grid; grid-template-columns: 1fr 1fr;  }
+
+.bottom { display: grid; grid-template-columns: repeat(4, 25%); }
+
+.bottomlogo  { place-content: left; height: 20; width: 20%; margin-left: 5%; }
+
+.image {  width: 50%; }
+
 .whitefont, .grupo4 { color:lightgray }
-.logo { width: 25%; margin: left}
-.all {    text-align: left; width: 600px;}
-.column1, .column2, .column3 {float: ; width: 33.33%; }
-.cita{    border: 1px solid  black; text-align: left; width: 85%; clear: both;}
-.pie { clear: both; }
-.boton { float: right;}
-.image { float: right; margin-top: 1px; width: 50%; grid-column: 2; grid-row: 2; }
-.grupo1 {text-align: left;width: 45%; float:left}
-.grupo2 {text-align: left;width: 45%;;float:left; margin-left: 5px;}
-.grupo3 {text-align: left;width: 45%; float:left}
-.grupo3b {text-align: right;width: 45%; float:right; margin-left: 2%;}
-.grupo4 {background-color: rgb(7, 4, 57)}
-.nav li{ display: block;}
+.cita{    border: 1px solid  black; text-align: justify; width: 85%; clear: both; text-al}
+.parrafo {    text-align: left; width: 600px;}
+
+
+
 .input { width: 15%; }
 
 *{
      border: 1px solid red;
-    clear: both;
 }
