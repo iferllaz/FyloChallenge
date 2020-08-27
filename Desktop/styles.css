@@ -37,5 +37,5 @@ h1 { font-weight: 700; font-size: 200; text-align: center; font-size: 30px }
 .autor {display:grid; grid-template-columns: 30% 70%  }
 .autor img {  height: 100%; width: 80% }
 
-.enter-email { margin: 20px; }
+.enter-email { display: grid; grid-auto-columns: auto; width: 40%; text-align: center; }
 
