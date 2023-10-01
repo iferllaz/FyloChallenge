@@ -27,6 +27,4 @@ This project was developed during my participation in the Bright Coders talent a
 ## Feedback and Contributions
 Feedback and contributions are welcome! If you have suggestions for improvements or would like to collaborate, please feel free to reach out.
 
-## License
-This project is open-source and is available under the [insert license here].
 
