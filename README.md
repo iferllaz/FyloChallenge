@@ -1,12 +1,12 @@
 # FyloChallenge
 
-# LinkCut - Web and Mobile Frontend Design
+# Fylo - Web and Mobile Frontend Design
 
 ## Overview
 This project showcases the frontend design for LinkCut, a web and mobile application designed to simplify link sharing and management. It was developed as part of the Bright Coders talent acceleration program by Magma Labs.
 
 ## Description
-LinkCut is a user-friendly application that allows users to shorten and customize URLs for easy sharing. This GitHub repository focuses on the frontend design aspect of the application, highlighting the user interface and user experience (UI/UX) design.
+Fylo is a user-friendly application that allows users to shorten and customize URLs for easy sharing. This GitHub repository focuses on the frontend design aspect of the application, highlighting the user interface and user experience (UI/UX) design.
 
 ## Key Features
 - **Intuitive UI:** A clean and intuitive user interface that simplifies the link-cutting process.
