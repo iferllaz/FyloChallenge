@@ -11,11 +11,10 @@ Fylo is a user-friendly application that allows users to shorten and customize U
 ## Key Features
 - **Intuitive UI:** A clean and intuitive user interface that simplifies the link-cutting process.
 - **Responsive Design:** Ensures seamless user experience on both web and mobile devices.
-- **Modern Look:** Aesthetic design that aligns with contemporary web and mobile design trends.
+- **Modern Look:** Aesthetic design that aligns with contemporary web and mobile design.
 - **User-Friendly Navigation:** Easy-to-use navigation for efficient link management.
-- **Customization Options:** Users can customize their shortened links for branding purposes.
 
-## Bright Coders Acceleration Program
+## About Bright Coders Acceleration Program
 This project was developed during my participation in the Bright Coders talent acceleration program by Magma Labs. The program provided a valuable learning experience and an opportunity to enhance my frontend design skills.
 
 ## Technologies Used
