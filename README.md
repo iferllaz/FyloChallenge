@@ -1,7 +1,5 @@
 # FyloChallenge
 
-# Fylo - Web and Mobile Frontend Design
-
 ## Overview
 This project shows the frontend design for LinkCut, a web and mobile application designed to simplify link sharing and management. It was developed as part of the Bright Coders talent acceleration program by Magma Labs.
 
